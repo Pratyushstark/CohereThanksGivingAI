@@ -1,5 +1,9 @@
 # CohereThanksGivingAI
 
+## This link is active for next 100 minutes anyone interested may give it a try else you could follow the steps I have written and can still run the app.
+
+https://tdyx64f6lhbpphuf.anvil.app/NLFXDGGCPYXI2RD4UV2WKTOQ
+
 #We have used Anvil's Editor to build our app it gets the job done quiet easily and efficiently.
 
 #Url to the app
